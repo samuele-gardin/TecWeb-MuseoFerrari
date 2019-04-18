@@ -1,1 +1,5 @@
 # TecWeb-MuseoFerrari
+Museo-Ferrari è il progetto svolto da Giovanni Peron, Marco Chilese, Matteo Marchiori e Samuele Gardin per il corso di Tecnologie Web - Unipd - A.A. 2018-2019.
+
+## Descrizione 
+Il progetto sviluppato si propone di realizzare un sito Web che illustri, principalmente, il catalogo, le mostre correnti e future, e tutte le informazioni di un museo dell’automobile che espone modelli di auto Ferrari. Il sito è a scopo informativo, permette all’utente di conoscere semplicemente quali auto siano esposte nel museo, quali mostre a tema particolare siano in corso e quali lo saranno prossimamente. Nel sito sono inoltre disponibili le informazioni circa orari, luogo e biglietti. È inoltre possibile, mediante un form, eseguire la richiesta di prenotazione di uno o più biglietti, generando un documento PDF, inviato per e-mail all’utente, da portare con sé il giorno della visita per l’effettivo acquisto. L’intero sito è stato sviluppato tenendo a mente la separazione tra struttura, presentazione e comportamento, e le regole di accessibilità.
